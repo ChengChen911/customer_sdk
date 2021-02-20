@@ -1,0 +1,2 @@
+/usr/bin/ar cr /home/ubuntu1404/customer_sdk/N_Kunhou_Arm_sdk/lib/x64/liblibplc.a  CMakeFiles/libplc.dir/plc_siemens.cpp.o CMakeFiles/libplc.dir/plc_base.cpp.o
+/usr/bin/ranlib /home/ubuntu1404/customer_sdk/N_Kunhou_Arm_sdk/lib/x64/liblibplc.a

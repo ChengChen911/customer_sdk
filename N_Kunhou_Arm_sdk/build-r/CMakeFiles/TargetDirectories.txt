@@ -1,0 +1,10 @@
+/home/ubuntu1404/customer_sdk/N_Kunhou_Arm_sdk/build-r/src/appNavikitInterface/CMakeFiles/appNavikitInterface.dir
+/home/ubuntu1404/customer_sdk/N_Kunhou_Arm_sdk/build-r/src/interprocess_chassis/CMakeFiles/interprocess_chassis.dir
+/home/ubuntu1404/customer_sdk/N_Kunhou_Arm_sdk/build-r/src/interprocess_ex_obstacle/CMakeFiles/interprocess_ex_obstacle.dir
+/home/ubuntu1404/customer_sdk/N_Kunhou_Arm_sdk/build-r/src/interprocess_keycontrol/CMakeFiles/interprocess_keycontrol.dir
+/home/ubuntu1404/customer_sdk/N_Kunhou_Arm_sdk/build-r/src/interprocess_laser_safe/CMakeFiles/interprocess_laser_safe.dir
+/home/ubuntu1404/customer_sdk/N_Kunhou_Arm_sdk/build-r/src/interprocess_remote/CMakeFiles/interprocess_remote.dir
+/home/ubuntu1404/customer_sdk/N_Kunhou_Arm_sdk/build-r/src/plc_lib/CMakeFiles/libplc.dir
+/home/ubuntu1404/customer_sdk/N_Kunhou_Arm_sdk/build-r/src/serial_test/CMakeFiles/serial_test.dir
+/home/ubuntu1404/customer_sdk/N_Kunhou_Arm_sdk/build-r/src/can_test/CMakeFiles/test_can.dir
+/home/ubuntu1404/customer_sdk/N_Kunhou_Arm_sdk/build-r/src/user_client_test/CMakeFiles/user_client_test.dir
